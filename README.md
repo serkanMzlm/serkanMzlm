@@ -10,7 +10,11 @@
     <img src="https://skillicons.dev/icons?i=md,matlab,raspberrypi,arduino,figma,git,github,vscode,autocad" />
   </a>
 </p>
+### Connect with me:
+[![Connect LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serkanmazlum/)
 
+
+<br />
 <!--
 **serkanMzlm/serkanMzlm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
