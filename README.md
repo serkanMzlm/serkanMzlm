@@ -2,12 +2,12 @@
 ### My Interest :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,js,qt,linux,py,raspberrypi,arduino,md,matlab,figma,git,github,vscode," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,qt,cmake,bash,linux,ros" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,bash,js,qt,linux,py,raspberrypi,arduino,md,matlab,figma,git,github,vscode," />
+    <img src="https://skillicons.dev/icons?i=md,matlab,raspberrypi,arduino,figma,git,github,vscode,autocad" />
   </a>
 </p>
 
