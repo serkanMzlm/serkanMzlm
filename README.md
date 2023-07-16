@@ -3,12 +3,12 @@
 ### My Interest :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,qt,cmake,bash,linux,ros" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,qt,cmake,bash,linux" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=md,matlab,raspberrypi,arduino,figma,git,github,vscode,autocad" />
+    <img src="https://skillicons.dev/icons?i=ros,md,matlab,raspberrypi,arduino,git,github,vscode" />
   </a>
 </p>
 
