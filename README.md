@@ -1,14 +1,14 @@
 ### My Interest :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,cmake,bash,linux,ros,md,raspberrypi,arduino,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,cmake,bash,linux" />
   </a>
 </p>
-<!-- <p align="center">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ros,md,raspberrypi,arduino,git,github,vscode" />
   </a>
-</p> -->
+</p> 
 
 ---
 
