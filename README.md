@@ -1,3 +1,17 @@
+### My Interest :
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,cmake,bash,linux,ros,md,raspberrypi,arduino,git,github,vscode" />
+  </a>
+</p>
+<!-- <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ros,md,raspberrypi,arduino,git,github,vscode" />
+  </a>
+</p> -->
+
+---
+
 ### Github Stats:
 <p>
   <img align="center" alt="serkanMzlm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serkanMzlm&show_icons=true&include_all_commits=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=800" />
@@ -16,18 +30,6 @@
  
 </p>
 
----
-### My Interest :
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,cmake,bash,linux,ros,md,raspberrypi,arduino,git,github,vscode" />
-  </a>
-</p>
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,md,raspberrypi,arduino,git,github,vscode" />
-  </a>
-</p> -->
 ---
 
 ### Connect
