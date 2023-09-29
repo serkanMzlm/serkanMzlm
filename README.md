@@ -48,30 +48,21 @@
 ---
 
 ### GitHub Stats and Activity:
-
 <table>
   <tr>
     <td>
-      <img alt="serkanMzlm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serkanMzlm&show_icons=true&include_all_commits=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"width="100%" />
+      <img alt="serkanMzlm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serkanMzlm&show_icons=true&include_all_commits=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" width="100%" />
     </td>
     <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=serkanMzlm&custom_title=serkanMzlm's%20GitHub%20Activity%20Graph&bg_color=0c1a25&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" width="47%" />
-    </td>
-  </tr>
-</table>
-
-### GitHub Streak and Top Languages:
-
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanMzlm&theme=dark&background=09131B&card_width=" alt="serkanMzlm" style="width: 100%;" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanMzlm&theme=dark&background=09131B&card_width=" alt="serkanMzlm" style="width: 98%;" />
     </td>
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkanMzlm&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=500" alt="serkanMzlm" style="width: 70%" />
     </td>
-    <td>
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanMzlm&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="serkanMzlm" style="width: 100%" />
+  </tr>
+  <tr>
+    <td colspan="3">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=serkanMzlm&custom_title=serkanMzlm's%20GitHub%20Activity%20Graph&bg_color=0c1a25&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" width="70%" />
     </td>
   </tr>
 </table>
