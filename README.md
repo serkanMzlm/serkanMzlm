@@ -18,7 +18,7 @@
 </p>  -->
 
 
-<!-- ### Github Stats:
+### Github Stats:
 
 <div style="display: flex; align-items: flex-start;">
 
@@ -42,7 +42,7 @@
    <div style="flex: 1;">
        <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanMzlm&show_icons=true&locale=en&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="serkanMzlm" style="width: 94%" />
    </div>
-</div> -->
+</div>
 ---
 
 #### GitHub Stats and Activity:
@@ -62,10 +62,10 @@
       <td>
       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkanMzlm&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=500" alt="serkanMzlm" />
     </td>
-  <tr>
+  <!-- <tr>
     <td style="background-color: #0c1a25;">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=serkanMzlm&custom_title=serkanMzlm's%20GitHub%20Activity%20Graph&bg_color=0c1a25&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" />
     </td>
 
-  </tr>
+  </tr> -->
 </table>
