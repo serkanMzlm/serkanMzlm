@@ -32,13 +32,6 @@
   <tr>
 </table>
 
-<!-- <p align="left">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanMzlm&theme=dark&background=09131B&card_width=800" alt="serkanMzlm" /> 
-</p>
-<p>
-  <img align="center" alt="serkanMzlm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serkanMzlm&show_icons=true&include_all_commits=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=800" />
-</p> -->
-
 <p>
    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkanMzlm&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=990" alt="serkanMzlm" />
 
