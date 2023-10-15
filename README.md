@@ -40,4 +40,4 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=serkanMzlm&custom_title=serkanMzlm's%20GitHub%20Activity%20Graph&bg_color=0c1a25&color=A9FEF7&line=626069&point=F8D847&area_color=FE428E&title_color=FE428E&area=true" alt="serkanMzlm's Github Activity Graph" width="99%">
 </div>
--->
+
