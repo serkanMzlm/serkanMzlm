@@ -8,14 +8,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,cmake,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,cmake,bash,linux,ros,raspberrypi,arduino,git,github" />
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ros,md,raspberrypi,arduino,git,github,vscode" />
   </a>
-</p> 
+</p>  -->
 
 ---
 ### GitHub Stats and Activity:
