@@ -8,12 +8,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,qt,cmake,bash,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,qt,cmake,bash" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ros,md,raspberrypi,arduino,git,github,vscode,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,ros,raspberrypi,arduino,git,github,vscode" />
   </a>
 </p> 
 
