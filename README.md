@@ -4,7 +4,7 @@
 
 ---
 
-### My Interest :
+### My Interest
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -18,7 +18,7 @@
 </p> 
 
 ---
-### GitHub Stats and Activity:
+### GitHub Stats and Activity
 <table>
   <tr>
     <td>
