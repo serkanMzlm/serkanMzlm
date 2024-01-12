@@ -20,7 +20,7 @@
   <strong style="font-size: 30px; color: #A8CF5F;"> GitHub Stats and Activity</strong>
 </p>
 <p align="center">
-   <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanMzlm&theme=dark&card_width=700&" alt="serkanMzlm"  />
+   <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanMzlm&theme=dark&card_width=700" alt="serkanMzlm"  />
 </p>
 
 <p align="center">
