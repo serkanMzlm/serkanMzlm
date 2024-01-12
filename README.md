@@ -19,14 +19,14 @@
   <strong style="font-size: 30px; color: #A8CF5F;"> GitHub Stats and Activity</strong>
 </p>
 <p align="center">
-   <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanMzlm&theme=dark&card_width=700" alt="serkanMzlm"  />
+   <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanMzlm&theme=dark&card_width=600" alt="serkanMzlm"  />
 </p>
 
 <p align="center">
-   <img align="top" alt="serkanMzlm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serkanMzlm&show_icons=true&include_all_commits=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=700"/>
+   <img align="top" alt="serkanMzlm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serkanMzlm&show_icons=true&include_all_commits=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=600"/>
 </p>
 <p align="center">
-   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkanMzlm&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=700&langs_count=4" alt="serkanMzlm" />
+   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkanMzlm&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=600&langs_count=4" alt="serkanMzlm" />
 </p>
 
 
