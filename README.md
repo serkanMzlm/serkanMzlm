@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,cmake,bash,linux,ros,git,github,raspberrypi,arduino" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,cmake,bash,linux,ros,git,github,raspberrypi,arduino,js" />
   </a>
 </p>
 
