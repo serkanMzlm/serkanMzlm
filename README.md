@@ -21,7 +21,7 @@
 
 
 <p align="center">
-   <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanMzlm&theme=dark&card_width=600" alt="serkanMzlm"  />
+   <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanMzlm&theme=dark" alt="serkanMzlm"  />
 </p>
 
 
