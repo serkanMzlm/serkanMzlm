@@ -16,7 +16,7 @@
 
 ---
 <p align="center">
-  <strong style="font-size: 28px; color: #A8CF5F;"> GitHub Stats and Activity</strong>
+  <strong style="color: #A8CF5F;"> GitHub Stats and Activity</strong>
 </p>
 
 
