@@ -1,9 +1,4 @@
 ### 📊 GitHub Analytics
-
-<p align="center">
-  <strong style="font-size: 28px; color: #A8CF5F;">GitHub Stats</strong>
-</p>
-
 <div align="center">
   <table>
     <tr>
@@ -29,6 +24,8 @@
     </tr>
   </table>
 </div>
+
+
 
 ### 🛠️ Technical Skills
 
