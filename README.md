@@ -1,4 +1,4 @@
-### 📊 GitHub Analytics
+# 📊 GitHub Analytics
 <div align="center">
   <table>
     <tr>
@@ -27,7 +27,7 @@
 
 
 
-### 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
 <p align="center">
   <a href="https://skillicons.dev">
