@@ -1,16 +1,3 @@
-### 🛠️ Technical Skills
-
-<p align="center">
-  <strong style="font-size: 30px; color: #58B07E;">My Interests</strong>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,cmake,bash,linux,ros,git,github,raspberrypi,arduino,js" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Analytics
 
 <p align="center">
@@ -42,3 +29,11 @@
     </tr>
   </table>
 </div>
+
+### 🛠️ Technical Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,cmake,bash,linux,ros,git,github,raspberrypi,arduino,js" />
+  </a>
+</p>
