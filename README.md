@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=500&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Serkan+and+Welcome+to+my+Profile!" alt="Hey, I'm Serkan and Welcome to my Profile! animated typed out" width="80%" align="middle"/>
-</div>
-
----
+### 🛠️ Technical Skills
 
 <p align="center">
   <strong style="font-size: 30px; color: #58B07E;"> My Interest</strong>
@@ -14,6 +10,10 @@
 </p>
 
 ---
+
+### 📊 GitHub Analytics
+
+
 <p align="center">
   <strong style="font-size: 28px; color: #A8CF5F;"> GitHub Stats and Activity</strong>
 </p>
@@ -34,4 +34,12 @@
  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkanMzlm&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=600&langs_count=5&hide=jupyter%20notebook,QML" alt="serkanMzlm" />
 </p>
 
-[docs](https://serkanmzlm.github.io/Documentation/)
+---
+
+### 📚 Documentation
+
+<p align="center">
+  <a href="https://serkanmzlm.github.io/Documentation/">
+    <img src="https://img.shields.io/badge/-Project%20Documentation-2CA5E0?style=for-the-badge&logo=gitbook&logoColor=white" />
+  </a>
+</p>
