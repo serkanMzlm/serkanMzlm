@@ -1,13 +1,11 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=500&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Serkan+and+Welcome+to+my+Profile!" alt="Hey, I'm Serkan and Welcome to my Profile! animated typed out" width="80%" align="middle"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=4000&pause=500&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Serkan+Welcome+to+my+GitHub+Profile!" alt="Typing Animation" />
 </div>
 
 ---
 
-<p align="center">
-  <strong style="font-size: 30px; color: #58B07E;"> My Interest</strong>
-</p>
+### 🛠️ Technical Skills
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,qt,cmake,bash,linux,ros,git,github,raspberrypi,arduino,js" />
@@ -15,24 +13,27 @@
 </p>
 
 ---
-<p align="center">
-  <strong style="font-size: 28px; color: #A8CF5F;"> GitHub Stats and Activity</strong>
-</p>
 
+### 📊 GitHub Analytics
 
-<p align="center">
-   <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanMzlm&theme=dark" alt="serkanMzlm"  />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serkanMzlm&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanMzlm&theme=dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkanMzlm&theme=dark&layout=compact&hide_border=true&langs_count=6&hide=jupyter%20notebook,QML" />
+</div>
 
+---
 
-
-<p align="center">
-   <img align="top" alt="serkanMzlm's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=serkanMzlm&show_icons=true&include_all_commits=false&count_private=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=600"/>
-</p>
-
+### 📚 Documentation
 
 <p align="center">
- <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkanMzlm&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&card_width=600&langs_count=5&hide=jupyter%20notebook,QML" alt="serkanMzlm" />
+  <a href="https://serkanmzlm.github.io/Documentation/">
+    <img src="https://img.shields.io/badge/-Project%20Documentation-2CA5E0?style=for-the-badge&logo=gitbook&logoColor=white" />
+  </a>
 </p>
 
-[docs](https://serkanmzlm.github.io/Documentation/)
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=serkanMzlm&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
