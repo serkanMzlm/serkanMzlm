@@ -29,21 +29,16 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=serkanMzlm&theme=dark&background=09131B&border=0c1a25&stroke=0c1a25&ring=ff652f&fire=FFE400&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
       </td>
     </tr>
-    <!-- Top Languages Card (full width) -->
+    <!-- Top Languages and Documentation side by side -->
     <tr>
-      <td colspan="2">
+      <td width="60%">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serkanMzlm&layout=compact&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25&langs_count=6&hide=jupyter%20notebook,QML" alt="Top Languages" />
+      </td>
+      <td width="40%" style="text-align: center; vertical-align: middle;">
+        <a href="https://serkanmzlm.github.io/Documentation/">
+          <img src="https://img.shields.io/badge/-Project%20Documentation-2CA5E0?style=for-the-badge&logo=gitbook&logoColor=white" />
+        </a>
       </td>
     </tr>
   </table>
 </div>
-
----
-
-### 📚 Documentation
-
-<p align="center">
-  <a href="https://serkanmzlm.github.io/Documentation/">
-    <img src="https://img.shields.io/badge/-Project%20Documentation-2CA5E0?style=for-the-badge&logo=gitbook&logoColor=white" />
-  </a>
-</p>
